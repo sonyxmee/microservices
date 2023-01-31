@@ -1,0 +1,7 @@
+.idea/*
+marketplace/__pycache__/*
+recommendations/__pycache__/*
+marketplace/recommendations_pb2.py
+marketplace/recommendations_pb2_grpc.py
+recommendations/recommendations_pb2.py
+recommendations/recommendations_pb2_grpc.py
